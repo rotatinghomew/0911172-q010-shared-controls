@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": "z1",
+      "study": "a",
+      "control": "shared-1",
+      "outcome": 4
+    },
+    {
+      "id": "z2",
+      "study": "a",
+      "control": "shared-2",
+      "outcome": 5
+    },
+    {
+      "id": "z1",
+      "study": "b",
+      "control": "shared-1",
+      "outcome": 4
+    },
+    {
+      "id": "z3",
+      "study": "b",
+      "control": "shared-3",
+      "outcome": 6
+    }
+  ]
+}
